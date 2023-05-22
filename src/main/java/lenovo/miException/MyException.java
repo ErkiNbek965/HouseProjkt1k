@@ -1,0 +1,7 @@
+package lenovo.myException;
+
+public class MyException extends Exception{
+    public MyException(String message) {
+        super(message);
+    }
+}
